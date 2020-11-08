@@ -160,7 +160,7 @@
                     }
                     
                     //Question 9
-                    if(q4Response == "Alaska"){
+                    if(q9Response == "Alaska"){
                         rightAnswer(9);
                     }else{
                         wrongAnswer(9);
